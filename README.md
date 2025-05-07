@@ -4,13 +4,13 @@ This repository focuses on analyzing Q-Commerce consumer and delivery insights u
 
 ---
 
-## 🚀 Project Objective
+## Project Objective
 
 To explore and understand patterns in Q-Commerce delivery and consumer behavior through data-driven analysis, helping improve business decision-making and operational efficiency.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack :
 
 - **Python** – Data wrangling, cleaning, analysis
 - **SQL** – Querying BigQuery datasets
