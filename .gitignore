@@ -3,4 +3,10 @@ XGBoostDT_Regressor.ipynb
 XGBoost_Basic.ipynb
 lightgbm.ipynb
 SVM.ipynb
+.Trash/
+.DS_Store
+.vscode/
+.env
+*.pyc
+
 README.md
