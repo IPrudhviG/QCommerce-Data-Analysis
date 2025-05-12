@@ -1,6 +1,6 @@
 # QCommerce-Data-Analysis
 
-This repository focuses on analyzing Q-Commerce consumer and delivery insights using **Python**, **SQL**, **BigQuery**, and **Tableau**. It provides an end-to-end data analysis workflow — from querying data to visualizing actionable insights.
+This repository focuses on analyzing Q-Commerce(Blinkit, Zepto, Instamrt) consumer and delivery insights using **Python**, **SQL**, **BigQuery**, and **Tableau**. It provides an end-to-end data analysis workflow — from querying data to visualizing actionable insights.
 
 ---
 
